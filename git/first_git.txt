@@ -1,3 +1,5 @@
 testing Git
 Git is a distributed version control system
 Git is a freeware software under GPL
+Git has a mutable index called stage
+Git tracks changes.
