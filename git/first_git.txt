@@ -1,5 +1,5 @@
-testing Git
-Git is a distributed version control system
-Git is a freeware software under GPL
-Git has a mutable index called stage
-Git tracks changes.
+1. testing Git
+2. Git is a distributed version control system
+3. Git is a freeware software under GPL
+4. Git has a mutable index called stage
+5. Git tracks changes for files.
