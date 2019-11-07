@@ -4,3 +4,4 @@
 4. Git has a mutable index called stage
 5. Git tracks changes for files.
 6. Git whatelse
+7. Git more
